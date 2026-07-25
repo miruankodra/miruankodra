@@ -1568,77 +1568,74 @@
 
     </g>
     <g transform="translate(355.2,0)">
-
         <defs>
             <style>
                 text { font-family: 'DejaVu Sans Mono', 'Fira Mono', 'Ubuntu Mono', Consolas, monospace; font-weight: 400; }
-                .bg { fill: #1a1b26; }
-                .header { fill: #24292f; font-size: 12.5px; letter-spacing: 0.5px; }
+                .header { fill: #24292f; font-size: 15.62px; letter-spacing: 0.5px; }
                 .rule { stroke: #d0d7de; stroke-width: 1; }
-                .label { fill: #b35900; font-size: 12.5px; }
-                .value { fill: #24292f; font-size: 12.5px; }
-                .dim { fill: #6e7781; font-size: 12.5px; font-style: italic; }
-                .dots { fill: #d0d7de; font-size: 12.5px; }
-                .bullet { fill: #8c959f; font-size: 8px; }
-                .sep { fill: #24292f; font-size: 12.5px; }
+                .label { fill: #b35900; font-size: 15.62px; }
+                .value { fill: #24292f; font-size: 15.62px; }
+                .dim { fill: #6e7781; font-size: 15.62px; font-style: italic; }
+                .dots { fill: #d0d7de; font-size: 15.62px; }
+                .bullet { fill: #8c959f; font-size: 10.00px; }
+                .sep { fill: #24292f; font-size: 15.62px; }
             </style>
         </defs>
 
-
-        <text x="20" y="10.2" class="header">- miruan<tspan fill="#6e7781">@</tspan>kodra</text>
-        <line x1="135" y1="6.2" x2="600" y2="6.2" class="rule"/>
+        <text x="20" y="12.8" class="header">- miruan<tspan fill="#6e7781">@</tspan>kodra</text>
+        <line x1="161.2" y1="7.8" x2="600" y2="7.8" class="rule"/>
 
         <g>
-            <text x="20" y="32.2" class="bullet">•</text>
-            <text x="35.0" y="32.2" class="label">OS:</text>
-            <text x="57.5" y="32.2" class="dots">..............................................</text>
-            <text x="600" y="32.2" text-anchor="end" class="value">Fedora Linux (Workstation)</text>
-            <text x="20" y="54.2" class="bullet">•</text>
-            <text x="35.0" y="54.2" class="label">Uptime:</text>
-            <text x="87.5" y="54.2" class="dots">............................................................</text>
-            <text x="600" y="54.2" text-anchor="end" class="value">22 years</text>
-            <text x="20" y="76.2" class="bullet">•</text>
-            <text x="35.0" y="76.2" class="label">Host:</text>
-            <text x="72.5" y="76.2" class="dots">...............................................................</text>
-            <text x="600" y="76.2" text-anchor="end" class="value">Albania</text>
-            <text x="20" y="98.2" class="bullet">•</text>
-            <text x="35.0" y="98.2" class="label">Role:</text>
-            <text x="72.5" y="98.2" class="dots">.....................................................</text>
-            <text x="600" y="98.2" text-anchor="end" class="value">Software Engineer</text>
-            <text x="20" y="120.2" class="bullet">•</text>
-            <text x="35.0" y="120.2" class="label">IDE:</text>
-            <text x="65.0" y="120.2" class="dots">..........................................</text>
-            <text x="600" y="120.2" text-anchor="end" class="value">Phpstorm, Webstorm, RustRover</text>
-            <text x="20" y="156.2" class="bullet">•</text>
-            <text x="35.0" y="156.2" class="label">Languages.Programming:</text>
-            <text x="200.0" y="156.2" class="dots">..........................</text>
-            <text x="600" y="156.2" text-anchor="end" class="value">PHP, TypeScript, Java, Rust</text>
-            <text x="20" y="178.2" class="bullet">•</text>
-            <text x="35.0" y="178.2" class="label">Languages.Real:</text>
-            <text x="147.5" y="178.2" class="dots">.................</text>
-            <text x="600" y="178.2" text-anchor="end" class="value">Albanian (Native), English, Arabic, Turkish</text>
-            <text x="20" y="200.2" class="bullet">•</text>
-            <text x="35.0" y="200.2" class="label">Hobbies:</text>
-            <text x="95.0" y="200.2" class="dots">........................................</text>
-            <text x="600" y="200.2" text-anchor="end" class="value">Outdoor-maxing, Electronics</text>
-            <text x="20" y="222.2" class="sep">- Contact</text>
-            <line x1="97.5" y1="218.2" x2="600" y2="218.2" class="rule"/>
-            <text x="20" y="244.2" class="bullet">•</text>
-            <text x="35.0" y="244.2" class="label">Email:</text>
-            <text x="80.0" y="244.2" class="dots">................................................</text>
-            <text x="600" y="244.2" text-anchor="end" class="value">miruankodra@gmail.com</text>
-            <text x="20" y="266.2" class="bullet">•</text>
-            <text x="35.0" y="266.2" class="label">LinkedIn:</text>
-            <text x="102.5" y="266.2" class="dots">......................................................</text>
-            <text x="600" y="266.2" text-anchor="end" class="value">miruan-kodra</text>
-            <text x="20" y="288.2" class="bullet">•</text>
-            <text x="35.0" y="288.2" class="label">Discord:</text>
-            <text x="95.0" y="288.2" class="dots">.............................................................</text>
-            <text x="600" y="288.2" text-anchor="end" class="value">miruan</text>
-            <text x="20" y="310.2" class="bullet">•</text>
-            <text x="35.0" y="310.2" class="label">Instagram:</text>
-            <text x="110.0" y="310.2" class="dots">.....................................................</text>
-            <text x="600" y="310.2" text-anchor="end" class="value">@miruankodra</text>
+            <text x="20" y="40.2" class="bullet">•</text>
+            <text x="38.8" y="40.2" class="label">OS:</text>
+            <text x="66.9" y="40.2" class="dots">..............................</text>
+            <text x="600" y="40.2" text-anchor="end" class="value">Fedora Linux (Workstation)</text>
+            <text x="20" y="67.8" class="bullet">•</text>
+            <text x="38.8" y="67.8" class="label">Uptime:</text>
+            <text x="104.4" y="67.8" class="dots">............................................</text>
+            <text x="600" y="67.8" text-anchor="end" class="value">23 years</text>
+            <text x="20" y="95.2" class="bullet">•</text>
+            <text x="38.8" y="95.2" class="label">Host:</text>
+            <text x="85.6" y="95.2" class="dots">...............................................</text>
+            <text x="600" y="95.2" text-anchor="end" class="value">Albania</text>
+            <text x="20" y="122.8" class="bullet">•</text>
+            <text x="38.8" y="122.8" class="label">Role:</text>
+            <text x="85.6" y="122.8" class="dots">.....................................</text>
+            <text x="600" y="122.8" text-anchor="end" class="value">Software Engineer</text>
+            <text x="20" y="150.2" class="bullet">•</text>
+            <text x="38.8" y="150.2" class="label">IDE:</text>
+            <text x="76.2" y="150.2" class="dots">..........................</text>
+            <text x="600" y="150.2" text-anchor="end" class="value">Phpstorm, Webstorm, RustRover</text>
+            <text x="20" y="195.2" class="bullet">•</text>
+            <text x="38.8" y="195.2" class="label">Languages.Programming:</text>
+            <text x="245.0" y="195.2" class="dots">..........</text>
+            <text x="600" y="195.2" text-anchor="end" class="value">PHP, TypeScript, Java, Rust</text>
+            <text x="20" y="222.8" class="bullet">•</text>
+            <text x="38.8" y="222.8" class="label">Languages.Real:</text>
+            <text x="179.4" y="222.8" class="dots">.</text>
+            <text x="600" y="222.8" text-anchor="end" class="value">Albanian (Native), English, Arabic, Turkish</text>
+            <text x="20" y="250.2" class="bullet">•</text>
+            <text x="38.8" y="250.2" class="label">Hobbies:</text>
+            <text x="113.8" y="250.2" class="dots">........................</text>
+            <text x="600" y="250.2" text-anchor="end" class="value">Mountaineering, Electronics</text>
+            <text x="20" y="277.8" class="sep">- Contact</text>
+            <line x1="114.4" y1="272.8" x2="600" y2="272.8" class="rule"/>
+            <text x="20" y="305.2" class="bullet">•</text>
+            <text x="38.8" y="305.2" class="label">Email:</text>
+            <text x="95.0" y="305.2" class="dots">................................</text>
+            <text x="600" y="305.2" text-anchor="end" class="value">miruankodra@gmail.com</text>
+            <text x="20" y="332.8" class="bullet">•</text>
+            <text x="38.8" y="332.8" class="label">LinkedIn:</text>
+            <text x="123.1" y="332.8" class="dots">......................................</text>
+            <text x="600" y="332.8" text-anchor="end" class="value">miruan-kodra</text>
+            <text x="20" y="360.2" class="bullet">•</text>
+            <text x="38.8" y="360.2" class="label">Discord:</text>
+            <text x="113.8" y="360.2" class="dots">.............................................</text>
+            <text x="600" y="360.2" text-anchor="end" class="value">miruan</text>
+            <text x="20" y="387.8" class="bullet">•</text>
+            <text x="38.8" y="387.8" class="label">Instagram:</text>
+            <text x="132.5" y="387.8" class="dots">.....................................</text>
+            <text x="600" y="387.8" text-anchor="end" class="value">@miruankodra</text>
         </g>
 
     </g>

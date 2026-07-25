@@ -68,7 +68,7 @@
             <text x="20" y="67.8" class="bullet">•</text>
             <text x="38.8" y="67.8" class="label">Uptime:</text>
             <text x="104.4" y="67.8" class="dots">............................................</text>
-            <text x="600" y="67.8" text-anchor="end" class="value">22 years</text>
+            <text x="600" y="67.8" text-anchor="end" class="value">23 years</text>
             <text x="20" y="95.2" class="bullet">•</text>
             <text x="38.8" y="95.2" class="label">Host:</text>
             <text x="85.6" y="95.2" class="dots">...............................................</text>
@@ -92,7 +92,7 @@
             <text x="20" y="250.2" class="bullet">•</text>
             <text x="38.8" y="250.2" class="label">Hobbies:</text>
             <text x="113.8" y="250.2" class="dots">........................</text>
-            <text x="600" y="250.2" text-anchor="end" class="value">Outdoor-maxing, Electronics</text>
+            <text x="600" y="250.2" text-anchor="end" class="value">Mountaineering, Electronics</text>
             <text x="20" y="277.8" class="sep">- Contact</text>
             <line x1="114.4" y1="272.8" x2="600" y2="272.8" class="rule"/>
             <text x="20" y="305.2" class="bullet">•</text>
