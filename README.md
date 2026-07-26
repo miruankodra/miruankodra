@@ -11,7 +11,7 @@
 
 ***
 ### Favourite Tech
-<img src="https://skillicons.dev/icons?i=laravel,angular,php,ts,rust,tailwind,mysql,postgres,git,docker,nginx,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=laravel,angular,react,php,ts,rust,tailwind,mysql,postgres,git,docker,nginx,linux&theme=dark" />
 
 ### Selected repos
 
