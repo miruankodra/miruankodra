@@ -1,17 +1,28 @@
-<svg width="1000" height="40" xmlns="http://www.w3.org/2000/svg">
-  <!-- background bar -->
-  <rect width="1000" height="40" rx="8" fill="#1a1b26"/>
+[//]: # (<svg width="1000" height="40" xmlns="http://www.w3.org/2000/svg">)
 
-  <!-- traffic light buttons -->
-  <circle cx="20" cy="20" r="6" fill="#f7768e"/>
-  <circle cx="42" cy="20" r="6" fill="#e0af68"/>
-  <circle cx="64" cy="20" r="6" fill="#9ece6a"/>
+[//]: # (  <!-- background bar -->)
 
-  <!-- centered title -->
-  <text x="500" y="25" text-anchor="middle" font-family="monospace" font-size="14" fill="#c0caf5">
-    miruan@github: ~
-  </text>
-</svg>
+[//]: # (  <rect width="1000" height="40" rx="8" fill="#1a1b26"/>)
+
+[//]: # ()
+[//]: # (  <!-- traffic light buttons -->)
+
+[//]: # (  <circle cx="20" cy="20" r="6" fill="#f7768e"/>)
+
+[//]: # (  <circle cx="42" cy="20" r="6" fill="#e0af68"/>)
+
+[//]: # (  <circle cx="64" cy="20" r="6" fill="#9ece6a"/>)
+
+[//]: # ()
+[//]: # (  <!-- centered title -->)
+
+[//]: # (  <text x="500" y="25" text-anchor="middle" font-family="monospace" font-size="14" fill="#c0caf5">)
+
+[//]: # (    miruan@github: ~)
+
+[//]: # (  </text>)
+
+[//]: # (</svg>)
 
 ####
 
